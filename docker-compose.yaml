@@ -1,3 +1,5 @@
+# Docker Compose file for WordPress and MySQL setup
+
 services:
   db:
     image: mysql:5.7
